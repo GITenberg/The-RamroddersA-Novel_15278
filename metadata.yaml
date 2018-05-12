@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1556
     wikipedia: http://en.wikipedia.org/wiki/Holman_Day
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15278#The-RamroddersA-Novel
 gutenberg_issued: '2005-03-07'
 gutenberg_type: Text
 identifiers:
