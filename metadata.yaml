@@ -1,0 +1,30 @@
+_repo: The-RamroddersA-Novel_15278
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Holman
+    alias: Day, Holman Francis
+    birthdate: 1865
+    deathdate: 1935
+    gutenberg_agent_id: '1556'
+    url: http://www.gutenberg.org/2009/agents/1556
+    wikipedia: http://en.wikipedia.org/wiki/Holman_Day
+description: ''
+gutenberg_issued: '2005-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15278'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Politicians -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'Maine -- Fiction'
+- !lcc 'PS'
+title: 'The Ramrodders: A Novel'
+url: http://www.gutenberg.org/ebooks/15278
